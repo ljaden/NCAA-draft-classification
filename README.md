@@ -41,7 +41,6 @@ A great way to understand the projection of the NBA is to study the players ente
 # Classification Models
 
 - Logistic Regression
-- Decision Tree
 - Support Vector Machine
 
 ## Logistic Regression
