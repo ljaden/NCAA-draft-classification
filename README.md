@@ -50,12 +50,12 @@ A great way to understand the projection of the NBA is to study the players ente
 
 ### Confusion Matrix :
 
-![LogisticRegression_cf_test](https://i.imgur.com/kHGP8Py.png)
+![LogisticRegression_cf_test](https://i.imgur.com/TgEIo6R.png)
 
-TP : 584 Correctly predicted as Drafted\
-TN : 15486 Correctly predicted as Undrafted\
-FP : 6695 Incorrectly predicted as Drafted\
-FN : 177 Incorrectly predicted as Undrafted
+TP : 148 Correctly predicted as Drafted\
+TN : 21784 Correctly predicted as Undrafted\
+FP : 397 Incorrectly predicted as Drafted\
+FN : 613 Incorrectly predicted as Undrafted
 
 #### AUC : 0.8711130698036186
 
@@ -75,6 +75,10 @@ TP : 156 Correctly predicted as Drafted\
 TN : 21781 Correctly predicted as Undrafted\
 FP : 400 Incorrectly predicted as Drafted\
 FN : 605 Incorrectly predicted as Undrafted
+
+#### AUC : 0.865149885889837
+
+![svm_ROC](https://i.imgur.com/JdnKZ7w.png)
 
 
 # Future Work and Areas of Improvement
